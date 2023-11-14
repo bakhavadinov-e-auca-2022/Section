@@ -13,8 +13,8 @@ What is the purpose of the landing page (your site)?
 Who is your target audience?
 
 [+] They are Customers Iphone
-[+] technical support Service Customers
-[+] Apple service Customers 
+[+] Technical support Service Customers
+[+] Apple Service Customers 
 [+] Customers who need faster delivery
 
 
@@ -23,7 +23,7 @@ Who is your target audience?
 What is the call to action (CTA)?
   
 [+] It will show the product description
-[+] Differences from other product and services 
+[+] Differences from other products and services 
 
 
   
